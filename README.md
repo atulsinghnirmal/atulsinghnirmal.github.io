@@ -1,10 +1,10 @@
 # My Portfolio
 
-**Hosted site:** https://lovely-klepon-f395af.netlify.app/
+**Hosted site:** 
 
 **Hi all,**
 
-My name is *Archit Gupta*. I  am currently pursuing B.Tech in Computer Engineering from Delhi Technological University. Here is my portfolio showcasing my journey full of learning and great experiences.
+My name is *Atul Singh Nirmal*. I  am currently pursuing B.Tech  from Delhi Technological University. Here is my portfolio showcasing my journey full of learning and great experiences.
 
 ## Sections
 ✔️ About
