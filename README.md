@@ -1,6 +1,6 @@
 # My Portfolio
 
-**Hosted site:** https://atulsinghnirmal.github.io/
+**Hosted site:** 
 
 **Hi all,**
 
